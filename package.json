@@ -1,0 +1,34 @@
+{
+    "name": "Ocean Vibes",
+    "displayName": "Ocean Vibes Theme",
+    "description": "Positive vibes are possible if you allow them. So never give up and never stop learning <3",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "icon": "assets/theme.PNG",
+    "author": {
+        "name": "Angel Lopez"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords":[
+        "terra",
+        "blue",
+        "green",
+        "chill",
+        "vibes",
+        "relaxing",
+        "relax"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "demo-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/demo-theme-color-theme.json"
+            }
+        ]
+    }
+}
